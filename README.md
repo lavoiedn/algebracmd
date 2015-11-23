@@ -6,7 +6,7 @@ step of the solution.
 
 All matrixes are entered using a syntax similar to LaTeX's format:
 * Each column is delimited by an ampersand ("&").
-* A new row is delimited by a double backslash ("\\").
+* A new row is delimited by a double backslash ("\\\\").
 
 #Commands
 
